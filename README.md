@@ -1,2 +1,4 @@
 # TLogger
-3100 project
+Software Engineering Project
+
+Made with Vue.js
